@@ -6,7 +6,6 @@ import {Link} from "react-router-dom";
 const { Sider } = Layout;
 
 const Navbar = ({ pages, setpageState }) => {
-  // const { collapsed } = this.state;
 
   return (
     <Sider width="80" className="menu">
